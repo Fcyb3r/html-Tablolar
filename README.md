@@ -1,0 +1,2 @@
+# html-Tablolar
+Ben bugün bazı sevdiğim şarkıları tablo haline getirdim amacım html'de tabloları kavramak old için sıkıntı  yok.Sonuç olarak table etiketi ile tablonun dış katmanınını oluşturuyoruz.Daha sonra caption etiketi ile başlık atabiliriz ben burada başlığımı tablonun içine atmak istedim ve attım.tr etiketi ile tablo satırını tanımlıyoruz daha sonra sütün eklemek istersek de th veya td etiketlerini kulanabiliriz ben de burada td ile yazdım.th ise yazıyı koyu  yazıyor (bold) bugünlük bu kadar bugün 06.05.2021
